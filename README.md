@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Odenigbo Ifeanyi Dian. Eectrical Engineer. i am creative and Technical manager @ Trubuilt Nig Ltd 
+- 👋 Hi, I’m Odenigbo Ifeanyi Dian. Electrical Engineer. i am creative and Technical manager @ Trubuilt Nig Ltd 
 - 👀 I’m interested in becoming a professional Data Analyst 
 - 🌱 I’m currently learning Data Anlysis,Advanced Excel, Power BI, SQL, and TABLEAU
 - 💞️ I’m looking to collaborate with like minds to solve problems in Techi world 
